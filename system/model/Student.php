@@ -9,7 +9,9 @@
 namespace system\model;
 
 
-class Student
+use houdunwang\model\Model;
+
+class Student extends Model
 {
 
 }

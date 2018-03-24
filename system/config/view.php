@@ -1,7 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: zengqingxin
- * Date: 2018/3/23
- * Time: 下午7:34
- */
+return [
+    //加载模板文件后缀
+    'suffix'=>'php',
+];
